@@ -11,4 +11,3 @@
     "useInfluxdb": false,
     "influxdbip": "",
     "influxdbport":"" 
-}
